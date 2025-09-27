@@ -1,7 +1,7 @@
 # Recent Human Motion Papers on arXiv
 
 ## 📰 News
-- 🚨 [2025-09-27] This page is updated.
+- 🚨 **[2025-09-27] This page is updated.**
 
 To facilitate graduate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts based on this topic from arXiv and created a webpage.
 
